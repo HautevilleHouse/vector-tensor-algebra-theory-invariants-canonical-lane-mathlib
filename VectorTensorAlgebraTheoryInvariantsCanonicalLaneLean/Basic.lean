@@ -1,0 +1,2 @@
+import VectorTensorAlgebraTheoryInvariantsCanonicalLaneLean.GateLemmas
+import VectorTensorAlgebraTheoryInvariantsCanonicalLaneLean.FinalTheorem
